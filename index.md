@@ -8,25 +8,25 @@ class: middle, center, black
 
 ## Thanks to
 
-# Peytz
+# Penni.io
 
 ## for hosting and snacks
 
 ---
 
-class: middle
+class: middle, crowded
 
 ## .center[Agenda]
 
 ```
 17:00 Doors open
 17:45 Welcome
-18:00 From javascript to TypeScript:
-how a different approach can make it more helpful
- - Eduardo Sorribas
-18:25 Break with food and drinks
-19:00 My Coffee App with React Native - Martin Lichstam
-19:25 You?
+18:00 Typescript: Mapped & Conditional Types by Pavel Kučera
+18:25 JS Open mic
+18:30 Break with food and drinks
+19:00 Proxy - how to make users of your library love you
+      by Radoslaw Medryk
+19:25 Using JavaScript to buy a house by Benjamin Hughes
 19:50 Group photo
 19:55 Raffle.js
 20:00 Socializing - meet the community
@@ -91,7 +91,7 @@ class: middle, center
 
 ## Medium version
 
-# Respect, Respect, Respect
+# RESPECT, RESPECT, RESPECT
 
 ---
 
@@ -104,6 +104,36 @@ class: middle
 #### Sexual language and imagery is not appropriate for any meetup venue, including talks, workshops, parties, Twitter and other online media. meetup participants violating these rules may be sanctioned or expelled from the meetup without a refund at the discretion of the meetup organisers.
 
 #### If you really want to be serious, find this on any human-friendly events, meetups, conferences, organizations, etc and read through.
+
+---
+
+class: blue, middle, center
+
+# Community News
+
+---
+
+class: middle, center
+
+## Subscribe to CopenhagenJS Newsletter
+
+We announce future events there, get exclusive workshop announcement
+
+---
+
+class: middle, center
+
+## Signup to CopenhagenJS website
+
+Now especially important for speakers, in the future for event sign up
+
+---
+
+class: middle, center
+
+## JS Open Mic
+
+A new way for people to shoutout of something they want to share
 
 ---
 
@@ -158,7 +188,7 @@ class: middle, center, yellow
 
 class: middle, center, blue
 
-# How can I help?
+# How can I be part of it?
 
 ---
 
@@ -200,7 +230,13 @@ class: middle, center, yellow
 
 class: middle, center, yellow
 
-# Quizz 🎲
+# JS Open Mic 🎤
+
+---
+
+class: middle, center, yellow
+
+# Quiz 🎲
 
 ---
 
