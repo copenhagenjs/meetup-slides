@@ -19,7 +19,7 @@
         const data = await response.json();
         let htmlString = "<ul>";
         for (let file of data) {
-          if (file.name.indexOf('20') !== 0) {
+          if (file.name.indexOf('20') === 0) {
             htmlString += `<li><a href="${file.path}">${file.name}</a></li>`;
           }
         }
