@@ -12,8 +12,6 @@ class: middle, center, darkblue
 
 ---
 
----
-
 class: middle, center, darkblue
 
 ## BIG Thanks to
@@ -31,9 +29,12 @@ class: middle, crowded
 ```
 17:00 Doors open
 17:45 Welcome
-18:00 Empowering frontend development: Unleashing the potential of the design system
+18:00 Empowering frontend development:
+	Unleashing the potential of the design system
+	- Mohsen Asfia
 18:25 Break with food and drinks
-19:00 A journey from a software developer to an entrepreneur - Bachir Kurdi
+19:00 A journey from software developer to entrepreneur
+	- Bachir Kurdi
 19:30 Group photo
 19:35 Raffle
 19:45 Socializing - Meet the community
