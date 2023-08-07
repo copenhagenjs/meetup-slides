@@ -121,7 +121,17 @@ class: blue, middle, center
 
 class: middle, center
 
-# 1. Call for Proposals on both talks and sponsors
+# 1. Copenhagen Developers Festival
+
+---
+
+class: middle, center
+
+## Ticket Raffle
+
+.center[![center-aligned image](qrcode-cphfest.png)]
+
+.footnote[Free event talks: check their lineup and tell us who you want to see]
 
 ---
 
@@ -218,6 +228,6 @@ class: yellow, middle, center
 
 ## Next meetup - September
 
-# Call for host and speakers
+# Call for future host and speakers
 
 We need you!
