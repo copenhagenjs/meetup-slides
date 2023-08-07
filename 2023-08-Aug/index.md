@@ -129,7 +129,7 @@ class: middle, center
 
 ## Ticket Raffle
 
-.center[![center-aligned image](qrcode-cphfest.png)]
+.center.qrcode[![center-aligned image](qrcode-cphfest.png)]
 
 .footnote[Free event talks: check their lineup and tell us who you want to see]
 
