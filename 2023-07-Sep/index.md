@@ -25,13 +25,13 @@ class: middle, crowded
 18:10 Building, testing, and releasing a multiplatform 
 	  SDK using GitHub Actions 
 	  - Kenneth Geisshirt
-18:35 Break with food and drinks
-19:10 Lightning talk
-19:20 Securing JavaScript-based Frontend Applications 
+18:40 Break with food and drinks
+19:15 Lightning talk
+19:25 Securing JavaScript-based Frontend Applications 
 	  - Mariam Reba Alexander
-19:50 Raffle
-19:55 Group photo
-20:00 Socializing - Meet the community
+19:55 Raffle
+20:00 Group photo
+20:05 Socializing - Meet the community
 21:00 See you next time!
 ```
 
