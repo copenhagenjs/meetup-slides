@@ -63,8 +63,9 @@ class: middle, center
 ## Behind CopenhagenJS
 
 .left.avatar[![left-aligned image](zoey.png)]
-.center.avatar[![center-aligned image](jonathan.png)]
-.right.avatar[![right-aligned image](svetlana.jpg)]
+.left.avatar[![left-aligned image](jonathan.png)]
+.center.avatar[![center-aligned image](svetlana.jpg)]
+.right.avatar[![right-aligned image](john.jpg)]
 .right.avatar[![right-aligned image](you.png)]
 
 .footnote[Come and put your picture on 😄]
@@ -128,16 +129,6 @@ class: yellow, middle, center
 
 ---
 
-class: middle, center, blue
-
-# Copenhagen
-
-#.Community
-
-https://copenhagen.community
-
----
-
 class: middle, center
 
 ## Past talks
@@ -190,6 +181,6 @@ class: yellow, middle, center
 
 ## Next meetup - November
 
-# Call for future host and speakers
+# Call for future hosts and speakers
 
 We need you!
