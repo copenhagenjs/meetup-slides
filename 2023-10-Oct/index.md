@@ -25,8 +25,8 @@ class: middle, crowded
 18:10 Accessibility Testing - Olga Saukh
 18:40 Break with food and drinks
 19:15 Qwik and Resumability - Anders Kjær Damgaard
-19:45 Raffle.js
-19:50 Group photo
+19:45 Raffle with a JavaScript Quiz
+19:55 Group photo
 20:00 Socializing - Meet the community
 21:00 See you next time!
 ```
@@ -63,12 +63,11 @@ class: middle, center
 ## Behind CopenhagenJS
 
 .left.avatar[![left-aligned image](zoey.png)]
-.left.avatar[![left-aligned image](jonathan.png)]
-.center.avatar[![center-aligned image](svetlana.jpg)]
-.right.avatar[![right-aligned image](john.jpg)]
-.right.avatar[![right-aligned image](you.png)]
+.center.avatar[![left-aligned image](jonathan.png)]
+.right.avatar[![center-aligned image](svetlana.jpg)]
 
-.footnote[Come and put your picture on 😄]
+.left.avatar[![right-aligned image](john.jpg)]
+.right.avatar[![right-aligned image](you.png)]
 
 ---
 
@@ -110,15 +109,6 @@ class: blue, middle, center
 
 ---
 
-background-image: url(logos.png)
-
---
-class: semi-transparent, middle, center
-
-## .linkblock[copenhagenjs.dk/speakers]
-
----
-
 class: yellow, middle, center
 
 # We will be here
@@ -131,11 +121,11 @@ class: yellow, middle, center
 
 class: middle, center
 
-## Past talks
+# Past talks
 
-# copenhagenjs.dk/videos
+## youtube.com/@copenhagenjs
 
-.footnote[Find us also on Youtube and Twitter]
+.footnote[Find us also on Twitter]
 
 ---
 
